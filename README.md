@@ -16,8 +16,6 @@ This is a real-time device tracking application built using Node.js, Express, an
 
 ## Features
 - Real-time device tracking
-- User authentication
-- Device location history
 - WebSocket-based communication for instant updates
 
 ## Prerequisites
